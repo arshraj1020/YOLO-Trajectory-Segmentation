@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Generated outputs
+trajectory_output/
+camera_realtime_*/
+D:\\trajectory_output/
+
+# Generated files
+*.csv
+*.json
+*.mp4
+
+# Large model weights
+*.pt
